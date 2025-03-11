@@ -5,3 +5,10 @@ DOMAIN-SUFFIX,mojie.app
 DOMAIN-SUFFIX,mojie.net
 DOMAIN-SUFFIX,mojie.xyz
 DOMAIN-SUFFIX,mojie.tt
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,webservice.fanart.tv
+DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,github.com
