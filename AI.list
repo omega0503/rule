@@ -1,6 +1,6 @@
 # $ meta_title Sukka's Ruleset - AIGC Domains1
 # $ meta_description This file contains domains of OpenAI, Claude.
-payload:
+playload:
   # >> OpenAI / ChatGPT
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,oaistatic.com
