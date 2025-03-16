@@ -1,5 +1,5 @@
 # $ meta_description A list of domains that are used by AIGC services.
-payload:
+playload:
   # ... 原有其他规则保持不变 ...
 
   # >> 网络服务
