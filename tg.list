@@ -1,3 +1,32 @@
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,mojie.info
+# $ meta_title Sukka's Ruleset - Telegram ASN
+# $ meta_description This file contains ASN owned/used by Telegram Messenger.
+# $ meta_description Note that unlike "ip/telegram" file which is based on officially released list by Telegram themselves. Use this file at your own risk.
+
+payload:
+  # >> Telegram 域名
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telega.one
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telegram.dog
+  - DOMAIN-SUFFIX,telegram.space
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,legra.ph
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,cdn-telegram.org
+
+  # >> Telegram 自治系统
+  # DC2/DC4 - Amsterdam
+  - IP-ASN,62041
+  # DC5 - Singapore
+  - IP-ASN,62014
+  # DC1/DC3 - Miami
+  - IP-ASN,59930
+  # India CDN
+  - IP-ASN,44907
+  # Finland, RETN Transit Only
+  - IP-ASN,211157
