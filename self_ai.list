@@ -1,11 +1,13 @@
-playload:
-  - DOMAIN-SUFFIX,trae.ai
-  - DOMAIN-SUFFIX,aistudio.google.com
-  - DOMAIN-SUFFIX,gstatic.com
-  
-  # >> Google AI Studio
-  - DOMAIN,ai.google.dev
-  - DOMAIN-SUFFIX,makersuite.google.com
-  - DOMAIN,alkalicore-pa.clients6.google.com
-  - DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-SUFFIX,generativeai.google
+# $ meta_title Sukka's Ruleset - Self AI Domains
+# $ meta_description This file contains domains of Trae AI Studio
+
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,gstatic.com
+
+# >> Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google

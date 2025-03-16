@@ -1,22 +1,20 @@
 # $ meta_description A list of domains that are used by AIGC services.
-playload:
-  # ... 原有其他规则保持不变 ...
 
-  # >> 网络服务
-  - DOMAIN-SUFFIX,v2rayssr.com
-  - DOMAIN-SUFFIX,fast.com
-  - DOMAIN-SUFFIX,mojie.info
-  - DOMAIN-SUFFIX,mojie.app
-  - DOMAIN-SUFFIX,mojie.net
-  - DOMAIN-SUFFIX,mojie.xyz
-  - DOMAIN-SUFFIX,mojie.tt
-  
-  # >> 媒体API
-  - DOMAIN-SUFFIX,api.themoviedb.org
-  - DOMAIN-SUFFIX,api.tmdb.org
-  - DOMAIN-SUFFIX,www.themoviedb.org
-  - DOMAIN-SUFFIX,api.thetvdb.com
-  - DOMAIN-SUFFIX,webservice.fanart.tv
+# >> 网络服务
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,mojie.info
+DOMAIN-SUFFIX,mojie.app
+DOMAIN-SUFFIX,mojie.net
+DOMAIN-SUFFIX,mojie.xyz
+DOMAIN-SUFFIX,mojie.tt
 
-  # >> 开发平台
-  - DOMAIN-SUFFIX,api.telegram.org
+ # >> 媒体API
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.tmdb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,webservice.fanart.tv
+
+# 开发平台
+DOMAIN-SUFFIX,api.telegram.org
