@@ -2,7 +2,7 @@
 # $ meta_description This file contains ASN owned/used by Telegram Messenger.
 # $ meta_description Note that unlike "ip/telegram" file which is based on officially released list by Telegram themselves. Use this file at your own risk.
 
-payload:
+playload:
   # >> Telegram 域名
   - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,tx.me
