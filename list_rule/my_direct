@@ -1,0 +1,28 @@
+# NAME: Direct
+# AUTHOR: Custom
+# REPO: Custom Rule Set
+# UPDATED: 2025-01-03 00:00:01
+# DOMAIN: 6
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 9
+# TOTAL: 17
+
+# IP和DNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
+DOMAIN,v4.66666.host
+DOMAIN,myip.ipip.net
+DOMAIN,v4.666666.host
+DOMAIN,4.ipw.cn
+DOMAIN,v4.66666.host
+DOMAIN,ip.3322.net
+DOMAIN-SUFFIX,163.com
