@@ -1,0 +1,49 @@
+# $ meta_description A list of domains that are used by AIGC services.
+
+# >> 网络服务
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,mojie.info
+DOMAIN-SUFFIX,mojie.app
+DOMAIN-SUFFIX,mojie.net
+DOMAIN-SUFFIX,mojie.xyz
+DOMAIN-SUFFIX,mojie.tt
+DOMAIN-SUFFIX,69yun69.com
+DOMAIN-SUFFIX,ctc.run
+DOMAIN-SUFFIX,小黑子.xyz
+
+# 开发平台
+DOMAIN-SUFFIX,api.telegram.org
+DOMAIN-SUFFIX,10run.vip
+DOMAIN-SUFFIX,hdhive.online
+
+# stash
+DOMAIN-SUFFIX,stash.com
+
+# mermaid
+DOMAIN-SUFFIX,mermaid.live
+
+#七尺宇
+DOMAIN-SUFFIX,qichiyu.com
+
+#dp下载
+DOMAIN-SUFFIX,synaptics.com
+
+#镜像站点
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,ghproxy.com
+DOMAIN-SUFFIX,ghgo.xyz
+DOMAIN-SUFFIX,ghfast.top
+
+#sehua图床
+DOMAIN-SUFFIX,7pzzv.us
+
+#镜像加速
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,movie-pilot.org
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-KEYWORD,debian
+DOMAIN-SUFFIX,qqqqq-test.com
+DOMAIN-SUFFIX,hdhive.com
+DOMAIN-KEYWORD,hdhive
+DOMAIN-SUFFIX,freecloud.ltd
