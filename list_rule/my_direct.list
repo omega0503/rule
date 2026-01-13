@@ -10,6 +10,7 @@
 # IP和DNS
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,client.wns.windows.com
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
