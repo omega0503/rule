@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,qqqqq-test.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-KEYWORD,hdhive
 DOMAIN-SUFFIX,freecloud.ltd
+
+#网络
+DOMAIN-SUFFIX,split.io
