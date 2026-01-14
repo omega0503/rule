@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,generativeai.google
 # >> Google NotebookLM
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm-pa.googleapis.com
 
 # >> POE
 DOMAIN-SUFFIX,poe.com
