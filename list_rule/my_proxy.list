@@ -43,10 +43,11 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-KEYWORD,debian
-DOMAIN-SUFFIX,qqqqq-test.com
 DOMAIN-SUFFIX,hdhive.com
 DOMAIN-KEYWORD,hdhive
 DOMAIN-SUFFIX,freecloud.ltd
 
 #网络
 DOMAIN-SUFFIX,split.io
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,69yun69.com
