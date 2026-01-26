@@ -81,3 +81,6 @@ DOMAIN-SUFFIX,groq.net
 # >> trae
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-KEYWORD,trae
+
+# >> manus
+DOMAIN-KEYWORD,manus
