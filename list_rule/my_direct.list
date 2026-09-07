@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,client.wns.windows.com
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
 DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN,cctalk.com
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,ip-api.com
